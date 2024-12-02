@@ -5,3 +5,74 @@
 {"time":"2024-12-02T19:03:14.012427+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"iywmsvx5"}
 {"time":"2024-12-02T19:03:14.012427+07:00","level":"INFO","msg":"sender: started","stream_id":"iywmsvx5"}
 {"time":"2024-12-02T19:03:14.012427+07:00","level":"INFO","msg":"handler: started","stream_id":"iywmsvx5"}
+{"time":"2024-12-02T19:03:14.5920593+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-02T19:03:14.708403+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:03:37.7640436+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:03:38.1720671+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:04:09.5543866+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:04:09.5619455+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:04:58.3689764+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:04:58.4100569+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:05:15.6661123+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:05:16.4192656+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:06:18.121707+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:06:18.7000006+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:06:37.3944943+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:06:37.9799464+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:08:42.7421847+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:08:43.359633+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:08:49.9241093+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:08:50.367439+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:08:50.3712187+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:08:50.4205138+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:08:50.4252493+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:08:50.4424041+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:08:50.446437+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:08:50.4474593+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:08:50.4505472+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:08:50.4603576+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:08:50.46391+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:08:50.4658184+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:08:50.4692267+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:08:50.5180202+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:08:50.5218763+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:08:50.5223823+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:08:50.5348475+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:08:50.5790469+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:08:50.5820622+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:13:02.0685309+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:13:09.6803279+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:13:09.6813354+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:13:30.4927603+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:13:30.4947326+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:14:07.6409834+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:14:08.5424111+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:14:23.2150708+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:14:23.2240828+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:19:58.6868149+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:19:58.6879869+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:21:42.2035798+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:21:42.2054451+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:21:44.9461863+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:24:06.8970605+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:24:38.7166716+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:24:38.7190663+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:24:50.0708504+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:24:50.0729348+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:24:50.9983127+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:24:51.0001512+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:24:51.835345+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:24:51.8373839+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-02T19:24:55.2556399+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-02T19:24:55.2566543+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-02T19:24:55.2571635+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-02T19:24:55.8560805+07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-12-02T19:24:55.8560805+07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-12-02T19:24:55.8560805+07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-12-02T19:24:56.2607431+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.4014273,"progress":"299B/299B"},{"desc":"uploading config.yaml","runtime_seconds":0.0696653,"progress":"1.6KB/1.6KB"},{"desc":"uploading output.log","runtime_seconds":0.0696653,"progress":"7.6KB/7.6KB"}],"total_operations":3}}
+{"time":"2024-12-02T19:24:56.555837+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-02T19:24:57.9423741+07:00","level":"INFO","msg":"stream: closing","id":"iywmsvx5"}
+{"time":"2024-12-02T19:24:57.9423741+07:00","level":"INFO","msg":"handler: closed","stream_id":"iywmsvx5"}
+{"time":"2024-12-02T19:24:57.9423741+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"iywmsvx5"}
+{"time":"2024-12-02T19:24:57.9423741+07:00","level":"INFO","msg":"sender: closed","stream_id":"iywmsvx5"}
+{"time":"2024-12-02T19:24:57.9434344+07:00","level":"INFO","msg":"stream: closed","id":"iywmsvx5"}
